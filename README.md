@@ -6,18 +6,20 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const frigoDev = {
-  role: "Systems Engineer",
-  code: ["JavaScript", "TypeScript", "Python", "Rust"],
-  frameworks: ["React", "Next.js", "Node.js", "Nest.js"],
-  technologies: ["MongoDB", "AWS", "Docker", "Kubernetes"],
-  hobbies: ["Playing video games", "Reading"],
-  learning: ["Backend", "DevOps", "Kubernetes", "Rust"],
-  interests: ["Web Development", "Cybersecurity", "AI", "IoT", "DevOps"],
-  funFact: "I'm passionate about creating amazing web experiences! 🚀",
-};
-```
+<img align='right' src='https://octodex.github.com/images/codertocat.png' width='20%'>
+
+{
+
+- 👂 `My name is`: **FrigoDev**,
+- 👨‍💻 `Role`: **Systems Engineer**,
+- 🎮 `Hobbies`: **Coding, Video games & Reading**,
+- 🌱 `Currently learning`: **Backend, DevOps, Kubernetes & Rust**,
+- 💻 `Favorite languages`: **TypeScript & Python**,
+- ❤️ `I love`: **Learning & Coffee**
+
+}
+
+---
 
 <br />
 
@@ -71,6 +73,7 @@ const frigoDev = {
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
